@@ -68,6 +68,8 @@ items:
     children:
       - label: Search
         url: /platform/search/index.html
+      - label: eCommerce
+        url: /platform/search/e-commerce.html
       - label: Observability
         url: /platform/observability/index.html
       - label: Security Analytics
